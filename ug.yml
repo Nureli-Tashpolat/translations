@@ -2,28 +2,28 @@
 # Leanpub website text portions.
 # Copyright (c) 2010-2017 Ruboss Technology Corporation.
 #
-# English
-# 2 letter code = en. 3 letter code = eng.
+# Uyghur
+# 2 letter code = ug. 3 letter code = uig.
 ###
-en:
+ug:
   support:
     array:
-      last_word_connector: " and " # Used in to_sentence
+      last_word_connector: " ۋە " # Used in to_sentence
   w_author_earns:
-    one: "Author earns"
-    other: "Authors earn"
+    one: "ئاپتورنىڭ پايدىسى"
+    other: "ئاپتورلارنىڭ پايدىسى"
   w_language:
-    one: "language"
-    other: "languages"
+    one: "تىل"
+    other: "تىللار"
   w_other_books_by_this_author:
-    one: "Other books by this author"
-    other: "Other books by these authors"
+    one: "ئاپتورنىڭ باشقا كىتاپلىرى"
+    other: "بۇ ئاپتورلارنىڭ باشقا كىتاپلىرى"
   w_other_language:
-    one: "other language"
-    other: "other languages"
+    one: "باشقا تىل"
+    other: "باشقا تىللار"
   w_share_email_with_author:
-    one: "Also share your email address with the author."
-    other: "Also share your email address with the authors."
+    one: "ئاپتورغا ئېلخەت ئادرېسىڭىزنى كۆرسىتىڭ."
+    other: "ئاپتورلارغا ئېلخەت ئادرېسىڭىزنى كۆرسىتىڭ"
 ############################################
 # With plurals above, without plurals below.
 ############################################
